@@ -41,9 +41,8 @@ I am a web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ### :hammer_and_wrench: Languages and Tools :
 
-|<img src="https://user-images.githubusercontent.com/88226437/185104353-538cc278-e9b6-48a4-8622-42fb9bce71b7.svg" alt="c++ logo" width="50" height="50"/>|<img src="https://user-images.githubusercontent.com/88226437/185105876-7c8eda4c-0d9c-44ff-8fde-3c23a6691611.svg" alt="html logo" width="50" height="50">|<img src="https://user-images.githubusercontent.com/88226437/185105977-ea811db6-0fe8-40ef-a1d2-980dccc702ef.svg" alt="css logo" width="50" height="50">|<img src="https://user-images.githubusercontent.com/88226437/185105978-266e3d10-b709-496c-9cac-854418f3a53b.svg" alt="css logo" width="50" height="50">|<img src="https://user-images.githubusercontent.com/88226437/185105972-a9955444-250c-4bca-841d-7a03855b5f6e.svg" alt="bootstrap logo" width="50" height="50">|<img src="https://user-images.githubusercontent.com/88226437/185105980-c01b59f1-360e-446c-a4c4-37780e8a73b8.svg" alt="reactjs logo" width="50" height="50">|
-| --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | 
----
+<img src="https://user-images.githubusercontent.com/88226437/185104353-538cc278-e9b6-48a4-8622-42fb9bce71b7.svg" alt="c++ logo" width="50" height="50"/><img src="https://user-images.githubusercontent.com/88226437/185105876-7c8eda4c-0d9c-44ff-8fde-3c23a6691611.svg" alt="html logo" width="50" height="50"><img src="https://user-images.githubusercontent.com/88226437/185105977-ea811db6-0fe8-40ef-a1d2-980dccc702ef.svg" alt="css logo" width="50" height="50"><img src="https://user-images.githubusercontent.com/88226437/185105978-266e3d10-b709-496c-9cac-854418f3a53b.svg" alt="css logo" width="50" height="50"><img src="https://user-images.githubusercontent.com/88226437/185105972-a9955444-250c-4bca-841d-7a03855b5f6e.svg" alt="bootstrap logo" width="50" height="50"><img src="https://user-images.githubusercontent.com/88226437/185105980-c01b59f1-360e-446c-a4c4-37780e8a73b8.svg" alt="reactjs logo" width="50" height="50">
+
 
 ### :fire: My Stats :
 
