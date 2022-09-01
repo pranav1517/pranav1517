@@ -23,7 +23,7 @@ I am a web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vivek-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-savani-9762a021a/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Pranav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-savani-9762a021a/)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pranav1517&style=flat-square&color=blue" alt="" align="center"/>
