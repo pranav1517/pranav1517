@@ -54,9 +54,6 @@
 
 ### :fire: My Stats :
 
-
-![](https://github-readme-stats.vercel.app/api?username=pranav1517&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pranav1517&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav1517&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav1517&" alt="pranav1517" /></p>
 
 
